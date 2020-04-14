@@ -1,0 +1,1 @@
+<?php header("Location: ./root.php"); //Включаем файл с админ-панелью?>

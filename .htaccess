@@ -1,0 +1,7 @@
+#php_value register_globals on
+AddDefaultCharset utf-8
+DirectoryIndex index.php
+php_value post_max_size 20M
+php_value upload_max_filesize 20M
+php_value max_execution_time 200
+php_value max_input_time 200
